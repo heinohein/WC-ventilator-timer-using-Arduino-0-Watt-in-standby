@@ -14,6 +14,8 @@ The Arduino detect by using a small 230V to 7,5 V transformer and some resistors
 that the timer can start counting down. 
 The duration of the count down is variable adjustable by a potmeter.
 
+PLEASE BE CAREFULL. 110-230V CAN KILL YOU!!.
+
 Sketch details:
 The map Arduino contains the sketch of the timer. All relevant variables are defined with
 #define statements, and the sketch contains many comments for easy reading and amendment.
@@ -56,6 +58,8 @@ Pictures:
 Photo's of the final test setup before final installation can be found in map 
 Wc-timer-pictures. 
 
-Overview of projectcosts will be added shortly.
+Costs:
+Total cost of the project ca. 20,45 eur/$. For details see file WC timer-bom2.html
 
 Have fun.
+HEINOHEIN
